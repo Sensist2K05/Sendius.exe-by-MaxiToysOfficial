@@ -3,3 +3,4 @@
 <br>
 This is my second GDI malware! Hope you all like it.
 Password is <code>dapod</code>
+More information is in the zip
