@@ -1,5 +1,5 @@
 # Sendius-GDIMal
-⚠️ Educational pursposes ⚠️
+⚠️ Educational purposes ⚠️
 <br>
 This is my second GDI malware! Hope you all like it.
 Password is <code>SendiGDI</code><br>Showcase: https://youtu.be/Zquz3q4Mrso
