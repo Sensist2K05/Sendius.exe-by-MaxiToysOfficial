@@ -9,4 +9,4 @@ More information is in the zip. <br>
 ![Image 1](./screenshots/S1.png)<br>
 ![Image 2](./screenshots/S2.png)<br>
 ![Image 3](./screenshots/S3.png)<br>
-![Image 4](./screenshots/S4.png)<sub>dont blame me for the low quality i grabbed it from a video</sub><br>
+![Image 4](./screenshots/S4.png)<sub>dont blame us for the low quality i grabbed it from a video</sub><br>
